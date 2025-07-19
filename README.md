@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keyursinh Zala</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d189da3f-ec67-42d2-a10c-5edf6de75364" width="300" alt="Keyursinh Zala" />
+  <img src="https://github.com/user-attachments/assets/d189da3f-ec67-42d2-a10c-5edf6de75364" width="200" alt="Keyursinh Zala" />
 </p>
 
 <h3 align="center">
